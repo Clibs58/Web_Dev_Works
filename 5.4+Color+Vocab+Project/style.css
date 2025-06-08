@@ -1,0 +1,32 @@
+body{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+img{
+    height: 200px;
+    width: 200px;
+}
+
+
+#red{
+    color: red;
+}
+
+#blue{
+    color: blue;
+}
+
+#orange{
+    color: orange;
+}
+
+#green{
+    color: green;
+}
+
+#yellow{
+    color: yellow;
+}
+
