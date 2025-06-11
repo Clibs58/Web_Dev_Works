@@ -1,1 +1,2 @@
-document.query
+document.querySelector("ul").firstElementChild.innerHTML="Hello";
+
